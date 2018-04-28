@@ -55,3 +55,5 @@ https://forum.kerbalspaceprogram.com/index.php?/topic/133074-131-sm-armory-sm-af
 Check out his signature for a list of his other awesome mods!
 
 BahamutoD - Original creator of BDArmory.
+
+Devo - R2D2 Model.
