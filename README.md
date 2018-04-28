@@ -50,5 +50,8 @@ For R2D2 MechJeb functionality, you will need MechJeb https://ksp.sarbian.com/je
 
 
 Model creators: SpannerMonkey(smce)
+
 https://forum.kerbalspaceprogram.com/index.php?/topic/133074-131-sm-armory-sm-afvs-etc-bda-damage-overhaul-version/&
 Check out his signature for a list of his other awesome mods!
+
+BahamutoD - Original creator of BDArmory.
