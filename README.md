@@ -49,10 +49,9 @@ For S1 Space missile texture switching, you will require SM_Industries https://g
 For R2D2 MechJeb functionality, you will need MechJeb https://ksp.sarbian.com/jenkins/job/MechJeb2-Dev/
 
 
-Model creators: SpannerMonkey(smce)
+Model creators: 
 
-https://forum.kerbalspaceprogram.com/index.php?/topic/133074-131-sm-armory-sm-afvs-etc-bda-damage-overhaul-version/&
-Check out his signature for a list of his other awesome mods!
+SpannerMonkey(smce)
 
 BahamutoD - Original creator of BDArmory.
 
