@@ -1,5 +1,5 @@
 # Ktech
-This mod adds a few weapons and items from Star Trek and Star Wars, as well as a couple of new and original SciFi weapons like a Space missile and a super powerful Rail gun.
+This mod adds a few weapons and items from Star Trek and Star Wars, as well as a couple of new and original SciFi weapons like a Space missile and a super powerful Rail gun. These parts are super OP, and are meant for pure unadulterated fun and destruction!
 
 Star Trek:
 
