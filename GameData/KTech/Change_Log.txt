@@ -1,0 +1,43 @@
+KTech v0.98	The introduction of two new rounds, and 3 modified BDAc weapons to use them. The 20x102mm_SAPHEI ( Semi-Armor-Piercing High-Explosive Incendiary)
+			and the 50Cal_RaufossMk211 (12.7x99mm NATO) multipurpose anti-matériel high-explosive incendiary/armor-piercing
+			These two new rounds are slightly superior to their more standard counterparts, but not OP... at least not IMO.
+			The 50 cal formfactor is now useful again.
+			
+			Two new Missiles, one OLD and one new, the AIM4FalconMK1 description = Found a HUGE pile of these old things 
+			when KTech took over an old warehouse!! It's labled AIM-4 Falcon... Google tells us that these are very old 
+			radar-guided missiles. They were designed to shoot down bombers and prop driven planes with limited speed and 
+			maneuverability. This missile also lacks a proximity fuse and will only detonate if a direct hit is scored.
+
+			The AIM-120D is an upgraded version of the AMRAAM with improvements in almost all areas. (uses the HE resource instead of tntMass)
+			
+			A new Universal ammo box for KTech for the old and the new rounds specific to KTech (needs work on the texture)
+			A whole new line of Radars  for specific appications.
+			A new variant of the RG turret with a drone core, weapon manager and Surface AI pilot!!
+
+KTech v0.95 Revival of an old SM_Industries M808 Scorpion tank with a choice of 2 very different turrets... One is a prototype Heavy Laser Cannon designed by KTech, and the other is the M512 Smooth Bore High Velocity Cannon!!
+			Addition of a modified Squad Rover wheel... not sure if this is staying... maybe.
+			Re-org of the folders, and addition of a Sounds folder.
+			New Bullet definition, 90mmtungstenAPBC the 90mm Tungsten Armor Piercing Ballistic Capped round for the M512 Smooth Bore High Velocity Cannon.
+			Inclusion of the SM_APU controller.
+			New Light Laser and a Medium Laser turret created in a StarWars like theme.
+			Major redesign of the functionality of the Railgun Turret. It's muzzle velocity now matches real world Railgun tests, with 10.4kg rounds. In my opinion, it's much more realistic now, it has a much lower velocity, 2520, and has bullet drop, so it can shoot over the horizon. Still devastating!
+			Addition of a KTech Target cam with VASTLY higher range then the Stock BDA target cam.
+			Custom Hitpoint/Armor patch for most KTech parts.
+			Addition of a Change log!!
+			And maybe more... I have been playing around with KTech adding stuff... changing stuff since 1.4.0, so I may have missed a detail or two.
+			None of these changes should be ship breaking... but I can't be 100% sure on that.
+			
+KTech v0.94 New custom category for KTech, no more searching by manufacturer.
+			Changes to the Railgun Turret; Rate of fire decreased from 60 RPM to 30 RPM and a new custom fire sound installed.
+
+KTech v0.93	Minor weapon tuning.
+			First test of texture switching on the Rail gun turret.
+
+KTech V0.92	Significant changes to the X10 line of weapons.
+			The bullet def was based on the BDAc LaserBolt, and was causing extremely high damage output.
+			EC Storage and generator output also decreased.
+			Other minor changes to the Turbo Laser Turret... to make it not so OP.
+
+KTech V0.91	Updated to take advantage of the changes and additions to BDAc 1.2.1.1
+
+KTech v0.90	Initial release
