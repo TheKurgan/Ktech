@@ -1,0 +1,6 @@
+E:\Users\Robert\Dropbox\KSP_DEV\GameData\000_USITools\KTechCategoryMaster.dll
+E:\Mod_Compiling\KTech\KtechCategory\obj\Release\KTech.csprojAssemblyReference.cache
+E:\Mod_Compiling\KTech\KtechCategory\obj\Release\KTech.csproj.CoreCompileInputs.cache
+E:\Mod_Compiling\KTech\KtechCategory\obj\Release\KTech.csproj.CopyComplete
+E:\Mod_Compiling\KTech\KtechCategory\obj\Release\KTechCategoryMaster.dll
+E:\Mod_Compiling\Releases\KTechCategoryMaster.dll

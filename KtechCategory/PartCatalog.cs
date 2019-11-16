@@ -9,7 +9,7 @@ namespace KTech
 {
     
     [KSPAddon(KSPAddon.Startup.MainMenu, true)]
-    public class StrykerAerospaceFilter : BaseFilter
+    public class KTech : BaseFilter
     {
         protected override string Manufacturer
         {
