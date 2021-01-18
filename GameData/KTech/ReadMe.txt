@@ -41,11 +41,11 @@ Space Radar - Needed for super long range targeting in space,
 
 Dependencies: 
 
-BDArmory Continued v1.2 https://forum.kerbalspaceprogram.com/index.php?/topic/155014-14x-bdarmory-continued-v12-4232018-vessel-mover-camera-tools-bdmk22-destruction-effects-burn-together/&
+BDArmory for Runway Project. https://spacedock.info/mod/2487/BDArmory%20for%20Runway%20Project
 
 Optional Dependencies:
 
-For S1 Space missile texture switching, you will require SM_Industries https://github.com/SpannerMonkey/SMIndustries/releases
+For S1 Space missile texture switching, you will require FireSpitter https://github.com/snjo/Firespitter/releases
 
 For R2D2 MechJeb functionality, you will need MechJeb https://ksp.sarbian.com/jenkins/job/MechJeb2-Dev/
 
